@@ -1,0 +1,4 @@
+bs4
+python-socketio[client]
+requests
+lxml
